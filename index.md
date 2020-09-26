@@ -22,6 +22,7 @@ MGU SRT is a speedrun tool for the *popular* PC game [Martian Gothic: Unificatio
 * Caution/danger status.
 * Enemy health.
 * In-game timer.
+* Customizable interface.
 * JSON HTTP Server via **[SRTPluginUIJSON](https://github.com/Squirrelies/SRTPluginUIJSON/){:target="_blank" rel="noopener"}**.
 
 ### Planned
