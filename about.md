@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-MGU SRT Provider and MGU SRT UI WPF created by {{ site.author.name }}.
+MGU SRT Provider and MGU SRT UI WPF created by {{ site.author }}.
 
 ## Repositories
 
