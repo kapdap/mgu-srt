@@ -13,7 +13,7 @@ MGU SRT is a speedrun tool for the *popular* PC game [Martian Gothic: Unificatio
 
 1. Download and install any missing **[prerequisite](/mgu-srt/downloads.html#Prerequisite)** software.
 2. Download and extract the latest version of **[SRT Host 32-bit](https://www.neonblu.com/SRT/){:target="_blank" rel="noopener"}**.
-3. Download the latest **[MGU SRT Provider](https://github.com/kapdap/mgu-srt-provider/releases/download/{{ page.provider_version }}/mgu-srt-provider_v{{ page.provider_version }}.zip)** and **[MGU SRT UI WPF](https://github.com/kapdap/mgu-srt-ui-wpf/releases/download/{{ page.interface_version }}/mgu-srt-ui-wpf_v{{ page.interface_version }}.zip)** plugins.
+3. Download the latest **[MGU SRT Plugin Pack](https://github.com/kapdap/mgu-srt/releases/download/{{ site.pack_version }}/mgu-srt-plugin-pack_v{{ site.pack_version }}.zip)**.
 4. Extract plugin contents to the SRT Host **plugins** folder.
 5. Run **SRTHost.exe** and start Martian Gothic.
 
