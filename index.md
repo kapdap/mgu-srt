@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Home
 interface_version: 0.9.0.0
 provider_version: 0.9.0.0
