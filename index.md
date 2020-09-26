@@ -1,8 +1,8 @@
 ## Installation
 
 1. Download and install the [Prerequisites](#Prerequisites) below.
-2. Download and extract the latest version of [SRT Host 32-bit](#Required).
-3. Download the latest [MGU SRT Provider](#Required) and [MGU SRT UI WPF](#Required) plugins.
+2. Download and extract the latest version of **SRT Host 32-bit**.
+3. Download the latest **MGU SRT Provider** and **MGU SRT UI WPF** plugins.
 4. Extract plugin contents to the SRT Host **plugins** folder.
 
 ## Downloads
@@ -30,7 +30,7 @@
 * Caution/danger status.
 * Enemy health.
 * In-game timer.
-* JSON HTTP Server via [SRTPluginUIJSON](#Optional).
+* JSON HTTP Server via **SRTPluginUIJSON**.
 
 ### Planned
 
