@@ -50,8 +50,10 @@ MGU SRT is a speedrun tool for the *popular* PC game Martian Gothic: Unification
 
 ## Sources
 
-* [MGU SRT Provider](https://github.com/kapdap/mgu-srt-provider/){:target="_blank" rel="noopener"} - A provider plugin for SRT Host to provide memory values from Martian Gothic: Unification to other plugins.
-* [MGU SRT UI WPF](https://github.com/kapdap/mgu-srt-ui-wpf/){:target="_blank" rel="noopener"} - A WPF-based User Interface for displaying game memory values from the MGU SRT Provider plugin.
+* [MGU SRT Provider](https://github.com/kapdap/mgu-srt-provider/){:target="_blank" rel="noopener"}
+* [MGU SRT UI WPF](https://github.com/kapdap/mgu-srt-ui-wpf/){:target="_blank" rel="noopener"}
+* [SRTPluginUIJSON](https://github.com/Squirrelies/SRTPluginUIJSON/){:target="_blank" rel="noopener"}
+* [SRT Host](https://github.com/Squirrelies/SRTHost/){:target="_blank" rel="noopener"}
 
 ## Special Thanks
 
