@@ -1,9 +1,11 @@
 theme: minima
 
 title: MGU SRT
+
 author:
   name: Kapdap
   email: kapdap@domain.com
+
 show_excerpts: true # set to true to show excerpts on the homepage
 
 minima:
