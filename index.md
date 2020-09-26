@@ -21,7 +21,7 @@ MGU SRT is a speedrun tool for the *popular* PC game Martian Gothic: Unification
 * [.NET Core v3.1 x86](https://dotnet.microsoft.com/download/dotnet-core/current/runtime){:target="_blank" rel="noopener"} or newer.
 * [7-Zip](https://www.7-zip.org/){:target="_blank" rel="noopener"} or any file extraction software.
 
-### Required
+### Components
 
 * [SRT Host 32-bit](https://www.neonblu.com/SRT/){:target="_blank" rel="noopener"}.
 * [MGU SRT Provider](https://github.com/kapdap/mgu-srt-provider/releases/download/{{ page.provider_version }}/mgu-srt-provider_v{{ page.provider_version }}.zip) **v{{ page.interface_version }}**.
@@ -48,7 +48,7 @@ MGU SRT is a speedrun tool for the *popular* PC game Martian Gothic: Unification
 * Equipped item.
 * DirectX overlay.
 
-## Components
+## Sources
 
 * [MGU SRT Provider](https://github.com/kapdap/mgu-srt-provider/){:target="_blank" rel="noopener"} - A provider plugin for SRT Host to provide memory values from Martian Gothic: Unification to other plugins.
 * [MGU SRT UI WPF](https://github.com/kapdap/mgu-srt-ui-wpf/){:target="_blank" rel="noopener"} - A WPF-based User Interface for displaying game memory values from the MGU SRT Provider plugin.
