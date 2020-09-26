@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: false
 interface_version: 0.9.0.0
 provider_version: 0.9.0.0
 ---
