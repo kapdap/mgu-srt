@@ -17,8 +17,6 @@ MGU SRT is a speedrun tool for the *popular* PC game [Martian Gothic: Unificatio
 
 ## Features
 
-### Implemented
-
 * Player health.
 * Poison status.
 * Caution/danger status.
