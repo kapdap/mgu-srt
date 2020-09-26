@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Martian Gothic: Unification SRT
 
-You can use the [editor on GitHub](https://github.com/kapdap/mgu-srt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A SRT (Speedrun Tool) for Martian Gothic: Unification PC release.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installation
 
-### Markdown
+1. Download and install the [Prerequisites](#Prerequisites) below.
+2. Download and extract the latest version of [SRT Host 32-bit](#Required).
+3. Download the latest [MGU SRT Provider](#Required) and [MGU SRT UI WPF](#Required) plugins.
+4. Extract plugin contents to the SRT Host **plugins** folder.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Downloads
 
-```markdown
-Syntax highlighted code block
+### Prerequisites:
+* [.NET Core v3.1 x86](https://dotnet.microsoft.com/download/dotnet-core/current/runtime) or newer.
+* [7-Zip](https://www.7-zip.org/) or any file extraction software.
 
-# Header 1
-## Header 2
-### Header 3
+### Required
 
-- Bulleted
-- List
+* [SRT Host 32-bit](https://www.neonblu.com/SRT/).
+* [MGU SRT Provider](https://github.com/kapdap/mgu-srt-provider/releases/download/0.9.0.0/mgu-srt-provider_v0.9.0.0.zip) **v0.9.0.0**.
+* [MGU SRT UI WPF](https://github.com/kapdap/mgu-srt-ui-wpf/releases/download/0.9.0.0/mgu-srt-ui-wpf_v0.9.0.0.zip) **v0.9.0.0**.
 
-1. Numbered
-2. List
+### Optional
 
-**Bold** and _Italic_ and `Code` text
+* [SRTPluginUIJSON](https://github.com/Squirrelies/SRTPluginUIJSON/).
 
-[Link](url) and ![Image](src)
-```
+## Features
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Implemented
 
-### Jekyll Themes
+* Player health.
+* Poison status.
+* Caution/danger status.
+* Enemy health.
+* In-game timer.
+* JSON HTTP Server via [SRTPluginUIJSON](#Optional).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kapdap/mgu-srt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Planned
 
-### Support or Contact
+* Inventory display.
+* Equipped item.
+* DirectX overlay.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Components
+
+* [MGU SRT Provider](https://github.com/kapdap/mgu-srt-provider/) - A provider plugin for SRT Host to provide memory values from Martian Gothic: Unification to other plugins.
+* [MGU SRT UI WPF](https://github.com/kapdap/mgu-srt-ui-wpf/) - A WPF-based User Interface for displaying game memory values from the MGU SRT Provider plugin.
+
+## Special Thanks
+
+* [Squirrelies](https://github.com/Squirrelies) for [SRT Host](https://github.com/Squirrelies/SRTHost/), [ProcessMemory](https://github.com/Squirrelies/ProcessMemory), various other SRTs and assistance.
