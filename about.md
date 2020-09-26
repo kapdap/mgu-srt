@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-MGU SRT Provider and MGU SRT UI WPF plugins created by {%- if social.github -%}<li><a rel="me" href="https://github.com/{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}">{{ site.author.name | escape }}</a></li>{%- site.author.name -%}{%- endif -%}.
+MGU SRT Provider and MGU SRT UI WPF created by {%- site.author.name -%}.
 
 ## Repositories
 
