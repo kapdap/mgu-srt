@@ -1,14 +1,18 @@
 ---
 layout: page
 title: Downloads
-interface_version: 0.9.0.0
-provider_version: 0.9.0.0
 ---
-### Components
+### Host
 
 * [SRT Host 32-bit](https://www.neonblu.com/SRT/){:target="_blank" rel="noopener"}
-* [MGU SRT Provider](https://github.com/kapdap/mgu-srt-provider/releases/download/{{ page.provider_version }}/mgu-srt-provider_v{{ page.provider_version }}.zip)
-* [MGU SRT UI WPF](https://github.com/kapdap/mgu-srt-ui-wpf/releases/download/{{ page.interface_version }}/mgu-srt-ui-wpf_v{{ page.interface_version }}.zip)
+
+### Provider Plugin
+
+* [MGU SRT Provider v{{ site.provider_version }}](https://github.com/kapdap/mgu-srt-provider/releases/download/{{ site.provider_version }}/mgu-srt-provider_v{{ site.provider_version }}.zip)
+
+### User Interface Plugins
+* [MGU SRT UI WPF v{{ site.interface_version }}](https://github.com/kapdap/mgu-srt-ui-wpf/releases/download/{{ site.interface_version }}/mgu-srt-ui-wpf_v{{ site.interface_version }}.zip)
+* [MGU SRT UI DirectX v{{ site.directx_version }}](https://github.com/kapdap/mgu-srt-ui-directx/releases/download/{{ site.directx_version }}/mgu-srt-ui-directx_v{{ site.directx_version }}.zip)
 
 ### Prerequisites:
 * [.NET Core v3.1 x86](https://dotnet.microsoft.com/download/dotnet-core/current/runtime){:target="_blank" rel="noopener"} or newer.
