@@ -1,7 +1,3 @@
-# Martian Gothic: Unification SRT
-
-A SRT (Speedrun Tool) for Martian Gothic: Unification PC release.
-
 ## Installation
 
 1. Download and install the [Prerequisites](#Prerequisites) below.
