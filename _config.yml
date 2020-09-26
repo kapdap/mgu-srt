@@ -2,3 +2,6 @@ theme: minima
 markdown: kramdown
 title: MGU SRT
 header_pages:
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
