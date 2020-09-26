@@ -1,3 +1,3 @@
-remote_theme: jekyll/minima
+theme: minima
 markdown: kramdown
 title: MGU SRT
