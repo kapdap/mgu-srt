@@ -14,6 +14,7 @@ header_pages:
  - screenshots.md
  - changelog.md
  - LICENSE.md
+ - About.md
 
 theme: minima
 
