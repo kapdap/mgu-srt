@@ -7,6 +7,8 @@ provider_version: 0.9.0.0
 
 MGU SRT is a speedrun tool for the *popular* PC game [Martian Gothic: Unification](https://en.wikipedia.org/wiki/Martian_Gothic:_Unification){:target="_blank" rel="noopener"}.
 
+*Last Update: 2020-09-30 [Changelog](mgu-srt/changelog.html)*
+
 ## Installation
 
 1. Download and install any missing **[prerequisite](/mgu-srt/downloads.html#Prerequisite)** software.
