@@ -1,3 +1,4 @@
 theme: minima
 markdown: kramdown
 title: MGU SRT
+header_pages:
