@@ -1,7 +1,16 @@
 theme: minima
-markdown: kramdown
+
 title: MGU SRT
-header_pages:
+author:
+  name: Kapdap
+  email: kapdap@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: true # set to true to show excerpts on the homepage
+
+markdown: kramdown
 header_pages:
  - index.md
 plugins:
