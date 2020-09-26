@@ -31,14 +31,3 @@ MGU SRT is a speedrun tool for the *popular* PC game Martian Gothic: Unification
 * Inventory display.
 * Equipped item.
 * DirectX overlay.
-
-## Repositories
-
-* [MGU SRT Provider](https://github.com/kapdap/mgu-srt-provider/){:target="_blank" rel="noopener"}
-* [MGU SRT UI WPF](https://github.com/kapdap/mgu-srt-ui-wpf/){:target="_blank" rel="noopener"}
-* [SRTPluginUIJSON](https://github.com/Squirrelies/SRTPluginUIJSON/){:target="_blank" rel="noopener"}
-* [SRT Host](https://github.com/Squirrelies/SRTHost/){:target="_blank" rel="noopener"}
-
-## Special Thanks
-
-* [Squirrelies](https://github.com/Squirrelies){:target="_blank" rel="noopener"} for [SRT Host](https://github.com/Squirrelies/SRTHost/){:target="_blank" rel="noopener"}, [ProcessMemory](https://github.com/Squirrelies/ProcessMemory){:target="_blank" rel="noopener"}, various other SRTs and assistance.
