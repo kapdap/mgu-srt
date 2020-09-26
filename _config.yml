@@ -10,6 +10,8 @@ rss: rss
 
 header_pages:
  - index.md
+ - downloads.md
+ - screenshots.md
  - changelog.md
  - LICENSE.md
 
