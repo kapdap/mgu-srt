@@ -4,7 +4,7 @@ title: Downloads
 ---
 ### Host
 
-* [SRT Host 32-bit](https://www.neonblu.com/SRT/){:target="_blank" rel="noopener"}
+* [SRT Host](https://www.neonblu.com/SRT/){:target="_blank" rel="noopener"}
 
 ### Provider Plugin
 
