@@ -13,7 +13,7 @@ title: Downloads
 ### User Interface Plugins
 
 * [MGU SRT UI WPF v{{ site.interface_version }}](https://github.com/kapdap/mgu-srt-ui-wpf/releases/download/{{ site.interface_version }}/mgu-srt-ui-wpf_v{{ site.interface_version }}.zip)
-* [MGU SRT UI DirectX v{{ site.directx_version }}](https://github.com/kapdap/mgu-srt-ui-directx/releases/download/{{ site.directx_version }}/mgu-srt-ui-directx_v{{ site.directx_version }}.zip)
+* [MGU SRT UI DirectX v{{ site.directx_version }}](https://github.com/kapdap/mgu-srt-ui-directx-overlay/releases/download/{{ site.directx_version }}/mgu-srt-ui-directx-overlay_v{{ site.directx_version }}.zip)
 
 ### Prerequisites:
 
