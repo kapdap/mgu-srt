@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-MGU SRT Plugins created by {{ site.author }}.
+MGU SRT Plugins created by [{{ site.author }}](https://github.com/kapdap/).
 
 ## Repositories
 
