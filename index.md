@@ -5,7 +5,7 @@ title: Home
 
 MGU SRT is a speedrun tool for the *popular* PC game [Martian Gothic: Unification](https://en.wikipedia.org/wiki/Martian_Gothic:_Unification){:target="_blank" rel="noopener"}.
 
-*Last Update: 2020-09-30 ([changelog](changelog.html))*.
+*Last Update: 2020-10-03 ([Changelog](changelog.html))*.
 
 ## Installation
 
