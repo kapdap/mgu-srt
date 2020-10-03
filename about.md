@@ -8,7 +8,7 @@ MGU SRT Provider and MGU SRT UI WPF created by {{ site.author }}.
 
 * [MGU SRT Provider](https://github.com/kapdap/mgu-srt-provider/){:target="_blank" rel="noopener"}
 * [MGU SRT UI WPF](https://github.com/kapdap/mgu-srt-ui-wpf/){:target="_blank" rel="noopener"}
-* [MGU SRT UI DirectX](https://github.com/kapdap/mgu-srt-ui-directx-overlay/){:target="_blank" rel="noopener"}
+* [MGU SRT UI DirectX Overlay](https://github.com/kapdap/mgu-srt-ui-directx-overlay/){:target="_blank" rel="noopener"}
 
 ## Special Thanks
 
