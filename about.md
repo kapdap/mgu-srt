@@ -13,3 +13,6 @@ MGU SRT Plugins created by [{{ site.author }}](https://github.com/kapdap/).
 ## Special Thanks
 
 * [Squirrelies](https://github.com/Squirrelies){:target="_blank" rel="noopener"} for [SRT Host](https://github.com/Squirrelies/SRTHost/){:target="_blank" rel="noopener"}, [ProcessMemory](https://github.com/Squirrelies/ProcessMemory){:target="_blank" rel="noopener"}, various other SRTs and assistance.
+
+# Resources Used
+[[WPF] Display an animated GIF image](https://thomaslevesque.com/2011/03/27/wpf-display-an-animated-gif-image/)
