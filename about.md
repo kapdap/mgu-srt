@@ -14,7 +14,7 @@ MGU SRT Plugins created by [{{ site.author }}](https://github.com/kapdap/).
 
 * [Squirrelies](https://github.com/Squirrelies){:target="_blank" rel="noopener"} for [SRT Host](https://github.com/Squirrelies/SRTHost/){:target="_blank" rel="noopener"}, [ProcessMemory](https://github.com/Squirrelies/ProcessMemory){:target="_blank" rel="noopener"}, various other SRTs and assistance.
 
-# External Libraries
+## External Libraries
 * [GameOverlay.Net](https://github.com/michel-pi/GameOverlay.Net){:target="_blank" rel="noopener"}
 * [ProcessMemory](https://github.com/Squirrelies/ProcessMemory){:target="_blank" rel="noopener"}
 
