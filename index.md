@@ -5,7 +5,7 @@ title: Home
 
 {{ site.product_name }} is a speedrun tool for the *popular* PC game [{{ site.game_name }}](https://en.wikipedia.org/wiki/Martian_Gothic:_Unification){:target="_blank" rel="noopener"}.
 
-*Last Update: 2020-10-10 ([Changelog](changelog.html))*.
+{%- if site.posts.size > 0 -%}Last Update: {%- assign post = site.posts | first -%} {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} {{ post.date | date: date_format }} (Changelog).{%- endif -%}
 
 <img align="right" width="216" height="493" src="assets/srt_window_detailed.png" alt="{{ site.product_name }} main window">
 
