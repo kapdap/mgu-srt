@@ -2,15 +2,19 @@
 layout: page
 title: Downloads
 ---
-### Host
+### Plugin Host
 
 * [SRT Host](https://www.neonblu.com/SRT/){:target="_blank" rel="noopener"}
 
-### Provider Plugin
+### Plugin Pack
+
+* [{{ site.product_name }} Plugin Pack {{ site.github.latest_release.name }}]({% assign asset = site.github.latest_release.assets | first %}{{ asset.browser_download_url }})
+
+#### Provider Plugin
 
 * [MGU SRT Provider v{{ site.provider_version }}](https://github.com/kapdap/mgu-srt-provider/releases/download/{{ site.provider_version }}/mgu-srt-provider_v{{ site.provider_version }}.zip)
 
-### User Interface Plugins
+#### User Interface Plugins
 
 * [MGU SRT UI WPF v{{ site.interface_version }}](https://github.com/kapdap/mgu-srt-ui-wpf/releases/download/{{ site.interface_version }}/mgu-srt-ui-wpf_v{{ site.interface_version }}.zip)
 * [MGU SRT UI DirectX Overlay v{{ site.directx_version }}](https://github.com/kapdap/mgu-srt-ui-directx-overlay/releases/download/{{ site.directx_version }}/mgu-srt-ui-directx-overlay_v{{ site.directx_version }}.zip)
